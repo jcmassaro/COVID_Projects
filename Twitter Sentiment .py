@@ -2,9 +2,6 @@ import os
 import json 
 import pandas as pd
 import csv
-import datetime
-import numpy as np
-import matplotlib.pyplot as plt
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer 
 from twython import Twython 
 from twython import TwythonStreamer 
