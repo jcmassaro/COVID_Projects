@@ -9,10 +9,10 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from twython import Twython 
 from twython import TwythonStreamer 
 
-api_key = 'ypUmYbS0v9JCJCNpXGH4KYsAFy'
-api_secret = '2y58yGF0BuYKajvbk6JTGEqc5tCZssLP655BEAt1QmNTU0K1zeU'
-access_token =  '1336786842167939079-x3MvVRIikyD23P6OUcBPMafKpvwGvJ'
-access_token_secret = 'rmUBU5Ae4xnah68PnOYTPc0EnZtFc0wyQHVQtKg5MWRVM'
+api_key = '********'
+api_secret = '*********'
+access_token =  '*********'
+access_token_secret = '***********'
 
 #Instantiate an object
 python_tweets = Twython(api_key, api_secret)
